@@ -9,4 +9,4 @@ function capture(e) {
 for (let i = 0; i < divs.length; i++) {
   // set the third argument to `true`!
   divs[i].addEventListener('click', capture, true);
-}s
+}
